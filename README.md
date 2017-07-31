@@ -5,10 +5,6 @@
 ## Intro
 This list was originally a clone of [stackoverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) by George Stocker. 
 
-The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It grew to become one of the [most popular repositories on Github](https://octoverse.github.com/), with over 80,000 stars, over 4000 commits, over 800 contributors, and over 20,000 forks.
-
-The repo is now administered by the [Free Ebook Foundation](https://ebookfoundation.org), a not-for-profit organization devoted to promoting the creation, distribution, archiving and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
-
 ### How To Contribute
 
 Please read [CONTRIBUTING](/CONTRIBUTING.md).
@@ -77,3 +73,40 @@ Free Podcasts and Screencasts:
 
 ### Programming Playgrounds
 + [Free Programming Playgrounds](/free-programming-playgrounds.md)
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+<!-- display the social media buttons in your README -->
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]
+
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
+[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: http://www.twitter.com/behindlinux
+[2]: http://www.facebook.com/behindlinux
+[6]: http://www.github.com/behindlinux
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
