@@ -174,7 +174,7 @@
 
 ### Misc
 
-* [Не мешайте мне работать!](http://motivateme.ru/book/) - Стас Давыдов
+* [Не мешайте мне работать!](http://motivateme.ru/motivate-me-right-1.3.pdf) - Стас Давыдов
 
 
 ### NoSQL
